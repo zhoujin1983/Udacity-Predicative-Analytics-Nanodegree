@@ -48,11 +48,13 @@ According to the linear model provided, if a diamond is 1 carat heavier than ano
 
 If you were interested in a 1.5 carat diamond with a Very Good cut (represented by a 3 in the model) and a VS2 clarity rating (represented by a 5 in the model), what retail price would the model predict for the diamond?
 
-### Step 2 - Visualize the Data: Create two scatter plots. If you're not sure what a scatter plot is, see here.
+### Step 2 - Visualize the Data: Create two scatter plots. 
 
+If you're not sure what a scatter plot is, see here.
 Plot 1 - Plot the data for the diamonds in the database, with carat on the x-axis and price on the y-axis.
 Plot 2 - Plot the data for the diamonds for which you are predicting prices with carat on the x-axis and predicted price on the y-axis.
 Note: You can also plot both sets of data on the same chart in different colors.
 What strikes you about this comparison? After seeing this plot, do you feel confident in the model’s ability to predict prices?
 
-### Step 3 - The Recommendation: What bid do you recommend for the jewelry company? Please explain how you arrived at that number.
+### Step 3 - The Recommendation: 
+What bid do you recommend for the jewelry company? Please explain how you arrived at that number.
